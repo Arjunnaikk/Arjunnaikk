@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Arjunnaik__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=arjun naik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/viraj walavalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun naik" height="30" width="40" /></a>
+<a href="https://twitter.com/Arjunnaik__" target="blank"><img align="center" src="https://i.pinimg.com/736x/c9/14/d1/c914d104b9df3f23f6268b29d06a0114.jpg" alt=arjun naik" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/viraj walavalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun naik" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/arjunnn________/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjunnn________" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1785" height="30" width="40" /></a>
 </p>
