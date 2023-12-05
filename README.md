@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Arjunnaik__" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Ftwitter-x-new-logo-icon-png-PNG-free-PNG-Images_490709&psig=AOvVaw1eV44oC12uqGbIXTwR4776&ust=1701882804383000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCOz9Ll-IIDFQAAAAAdAAAAABAR" alt=arjun naik" height="30" width="40" /></a>
+<a href="https://twitter.com/Arjunnaik__" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt=arjun naik" height="35" width="40" /></a>
 <!-- <a href="https://linkedin.com/in/viraj walavalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun naik" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/arjunnn________/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjunnn________" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1785" height="30" width="40" /></a>
