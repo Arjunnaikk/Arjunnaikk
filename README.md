@@ -6,8 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   44 hrs 50 mins  ████████████████████████▒   97.57 %
-Rust    1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Other   37 hrs 29 mins  ████████████████████████▒   97.11 %
+Rust    1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
