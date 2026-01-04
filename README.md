@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   7 hrs 13 mins   ███████████████████████▓░   94.13 %
-Java    26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
