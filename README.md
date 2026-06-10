@@ -6,9 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 51 mins         ███████████████████████▓░   94.68 %
-Java         11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-TypeScript   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TypeScript   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
